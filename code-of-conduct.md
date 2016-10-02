@@ -13,7 +13,7 @@ We value the participation of each member of the community and want all attendee
 Need help?
 ----------
 
-If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
+If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/teresina), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
 - **Alessandro Barros** [ale_alessandro_ale@hotmail.com](mailto:ale_alessandro_ale@hotmail.com)
 - **Thiago Carvalho** [thiagosousa@hotmail.com](mailto:thiagosousa@hotmail.com)
