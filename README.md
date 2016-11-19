@@ -10,5 +10,5 @@ What was the last paper within the realm of computing you read and loved? What d
 
 ### Contact
 
-- Alessandor Barros | [GitHub](https://github.com/Alessandrobarros265) | [Facebook](https://www.facebook.com/long.int.x) | [Email](mailto:ale_alessandro_ale@hotmail.com)
+- Alessandro Barros | [GitHub](https://github.com/Alessandrobarros265) | [Facebook](https://www.facebook.com/long.int.x) | [Email](mailto:ale_alessandro_ale@hotmail.com)
 - Thiago Carvalho | [Email](mailto:thiagosousa@hotmail.com)
